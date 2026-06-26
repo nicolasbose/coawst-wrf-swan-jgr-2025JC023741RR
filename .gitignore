@@ -1,0 +1,22 @@
+# Large model output files — deposit directly to Zenodo
+database/wrfswan_100m.nc
+database/wrfstand_100m.nc
+database/energy_10MW_wrfswan.nc
+database/energy_10MW_wrfstand.nc
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+database/Untitled.ipynb
+
+# Matplotlib font cache
+.mplconfig/
