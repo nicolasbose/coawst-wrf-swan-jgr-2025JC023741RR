@@ -1,8 +1,6 @@
-# Large model output files — deposit directly to Zenodo
-database/wrfswan_100m.nc
-database/wrfstand_100m.nc
-database/energy_10MW_wrfswan.nc
-database/energy_10MW_wrfstand.nc
+# All database files — deposited on Zenodo (see README)
+database/*.nc
+database/*.csv
 
 # macOS
 .DS_Store
