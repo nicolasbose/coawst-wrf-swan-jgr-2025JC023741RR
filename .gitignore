@@ -2,6 +2,9 @@
 database/*.nc
 database/*.csv
 
+# Manuscript folder
+paper/
+
 # macOS
 .DS_Store
 
