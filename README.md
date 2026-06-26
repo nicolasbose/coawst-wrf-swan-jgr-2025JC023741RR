@@ -43,7 +43,7 @@ Key findings:
 
 All model output and input data files are archived on Zenodo:
 
-> **Zenodo DOI:** `[DOI will be added upon acceptance]`
+> **Zenodo DOI:** https://doi.org/10.5281/zenodo.20931490
 
 The following files are available there:
 
